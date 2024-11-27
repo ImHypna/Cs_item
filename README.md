@@ -40,7 +40,7 @@ ItemDao.kt
 
 Integrar o banco de dados com o ViewModel.
 
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 - Leonardo Kenji
 
@@ -52,7 +52,7 @@ Arquivos de tema: Color.kt, Type.kt, Theme.kt
 
 Garantir que a interface seja responsiva e funcional.
 
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 
 - Kauê Galon
@@ -67,7 +67,7 @@ MainActivity.ty
 
 Colaborar com o ViewModel para conectar modelos ao banco de dados.
 
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 - Gabriel Ziliotto
 
