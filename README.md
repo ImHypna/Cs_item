@@ -4,6 +4,8 @@ Descrição do Projeto
 
 O projeto CsItemCompose é um aplicativo Android desenvolvido com Jetpack Compose. Ele é estruturado para gerenciar itens utilizando um banco de dados local. Este projeto organiza o código em módulos distintos, incluindo camadas de banco de dados, modelo, ViewModel e interface do usuário.
 
+----------------------------
+
 Estrutura do Projeto
 
 O projeto é dividido nas seguintes áreas principais:
@@ -24,9 +26,11 @@ Interface do Usuário: Implementação da interface visual usando Jetpack Compos
 
 Arquivos: MainActivity.kt, Color.kt, Type.kt, Theme.kt
 
-Divisão de Tarefas
+----------------------------
 
-Pedro Henrique Cagol
+- - Divisão de Tarefas
+
+- Pedro Henrique Cagol
 
 Configurar o banco de dados:
 
@@ -36,7 +40,9 @@ ItemDao.kt
 
 Integrar o banco de dados com o ViewModel.
 
-Leonardo Kenji
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+- Leonardo Kenji
 
 Desenvolver a interface do usuário:
 
@@ -46,21 +52,32 @@ Arquivos de tema: Color.kt, Type.kt, Theme.kt
 
 Garantir que a interface seja responsiva e funcional.
 
-Kauê Galon
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+- Kauê Galon
 
 Implementar os modelos de dados:
 
 item.kt
 
+Desenvolver Interface do usuário:
+
+MainActivity.ty
+
 Colaborar com o ViewModel para conectar modelos ao banco de dados.
 
-Gabriel Ziliotto
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+- Gabriel Ziliotto
 
 Desenvolver e testar o ViewModel:
 
 viewmodel.kt
 
 mainviewmodelfactory.kt
+
+----------------------------
 
 Garantir que a lógica de negócios seja corretamente implementada.
 
@@ -75,6 +92,8 @@ Certifique-se de ter o SDK do Android configurado corretamente.
 Execute o comando Gradle para sincronizar o projeto:
 
 ./gradlew build
+
+----------------------------
 
 Como Contribuir
 
