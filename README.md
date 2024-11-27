@@ -77,9 +77,9 @@ viewmodel.kt
 
 mainviewmodelfactory.kt
 
-----------------------------
-
 Garantir que a lógica de negócios seja corretamente implementada.
+
+----------------------------
 
 Configuração do Ambiente
 
